@@ -727,3 +727,12 @@ section.lazy-placeholder:after {
 .cid-rXhGp61Ft9 H3 {
   text-align: center;
 }
+.cid-rXhGp61Ft9 .mbr-text,
+.cid-rXhGp61Ft9 .mbr-section-btn {
+  text-align: left;
+}
+.cid-rXhOUldrkn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
